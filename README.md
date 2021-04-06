@@ -17,7 +17,7 @@
 
 ### 交互式学习
 
-> 微软GitHub 基础知识[Microsoft Learn](https://docs.microsoft.com/zh-cn/learn/modules/introduction-to-github/)
+> 微软GitHub 基础知识[Microsoft Learn](https://docs.microsoft.com/zh-cn/learn/modules/introduction-to-github/)  
 > 微软有关版本控制与 Git 结合使用的简介[Microsoft Learn](https://docs.microsoft.com/zh-cn/learn/paths/intro-to-vc-git/)
 
 ### PPT资源
@@ -30,7 +30,7 @@
 
 ### 视频教程
 
-> biezhi的git教程： [b站 魔王不造反](https://www.bilibili.com/video/BV1HW411f7VJ) [YouTube 代码真香](https://www.youtube.com/watch?v=29q6zwRGywk&list=PLK2w-tGRdrj5jO9Y1k2iAPCw7iSo6YVdx&pbjreload=101)  
+> biezhi的git教程： [b站 魔王不造反](https://www.bilibili.com/video/BV1HW411f7VJ) | [YouTube 代码真香](https://www.youtube.com/watch?v=29q6zwRGywk&list=PLK2w-tGRdrj5jO9Y1k2iAPCw7iSo6YVdx&pbjreload=101)  
 
 ### 软件资源
 
