@@ -26,7 +26,7 @@
 
 ### 图文教程
 
-> 高质量中文git教程： [git教程](https://github.com/geeeeeeeeek/git-recipes)
+> 高质量中文git教程： [git教程](https://github.com/geeeeeeeeek/git-recipes)  
 > 廖雪峰git教程： [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)  
 
 ### 视频教程
